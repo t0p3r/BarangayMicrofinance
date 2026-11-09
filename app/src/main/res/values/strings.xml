@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barangay Microfinance</string>
+    <string name="collector_login_title">Barangay Field Collector Login</string>
+    <string name="collector_login_subtitle">Scan fingerprint or face to unlock local encrypted ledger</string>
+</resources>
